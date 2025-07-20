@@ -10,7 +10,7 @@ I address a list of usefull Github repositories here and try to provide a brief 
 *   [VSA-template .NET8](#VSA)
 *   [modular-monolith-with-ddd](#modular-monolith-with-ddd)
 *   [CleanArchitecture .NET9](#CleanArchitecture)
-*   [Evolutionary Architecture](#Evolutionary Architecture)
+*   [Evolutionary Architecture](#Evolutionary-Architecture)
 *   [PocketFlow - agent 100 line code](#Pocketflow)
 
 ## eshop
@@ -45,7 +45,7 @@ Clean Architecture Solution Template for ASP.NET Core
 
 *   https://github.com/jasontaylordev/CleanArchitecture.git
 
-## Evolutionary Architecture
+## Evolutionary-Architecture
 
 Clean Architecture Solution Template for ASP.NET Core
 
