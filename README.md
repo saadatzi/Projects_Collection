@@ -11,6 +11,7 @@ I address a list of usefull Github repositories here and try to provide a brief 
 *   [modular-monolith-with-ddd](#modular-monolith-with-ddd)
 *   [CleanArchitecture .NET9](#CleanArchitecture)
 *   [Evolutionary Architecture](#Evolutionary Architecture)
+*   [PocketFlow - agent 100 line code](#Pocketflow)
 
 ## eshop
 *   https://github.com/dotnet/eShop.git
@@ -49,3 +50,7 @@ Clean Architecture Solution Template for ASP.NET Core
 Clean Architecture Solution Template for ASP.NET Core
 
 *   https://github.com/evolutionary-architecture/evolutionary-architecture-by-example.git
+
+## Pocketflow
+
+*   https://github.com/The-Pocket/PocketFlow.git
